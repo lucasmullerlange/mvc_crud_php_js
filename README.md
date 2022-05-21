@@ -41,7 +41,7 @@ PRONTO!! Banco configurado com a aplicação
        Na opção SQL clicamos em e abrirá algo para digitar 
        Coloque isso dentro : 
 
-        Copie aqui e cole lá 
+        copie daqui 
 
          CREATE DATABASE agendamentos; 
         USE agendamentos;
@@ -58,9 +58,11 @@ PRONTO!! Banco configurado com a aplicação
 
         INSERT INTO `registros` (`id`, `name`, `email`, `cpf`, `birth`, `address`, `phone`) VALUES
         (01, 'Teste', 'teste@teste.com', '123.456.789-00', '2020-01-31', 'rua teste', '(00) 0000-0000');
+    
+        até aqui 
+        
+Lá no lado direto click em executar ... 
 
-
-Lá no lado direto click em executar ... Banco executado ... 
 
 
 
