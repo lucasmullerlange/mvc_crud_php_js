@@ -10,7 +10,7 @@ O Projeto foi desenvolvido em javascript CSS e Boostrap para validação de form
 <i> Depois de instalado, dentro do xampp click em : </i>
     
     
-    Através do terminal no (mac ou linux) e no powershe(windows)
+    Através do terminal no (mac ou linux) ou powershe(windows)
 
      Localize a pasta chamada  "htdocs"
     
@@ -41,7 +41,6 @@ PRONTO!! Banco configurado com a aplicação
        Na opção SQL clicamos em e abrirá algo para digitar 
        Coloque isso dentro : 
 
-        copie daqui 
 
          CREATE DATABASE agendamentos; 
         USE agendamentos;
@@ -59,8 +58,7 @@ PRONTO!! Banco configurado com a aplicação
         INSERT INTO `registros` (`id`, `name`, `email`, `cpf`, `birth`, `address`, `phone`) VALUES
         (01, 'Teste', 'teste@teste.com', '123.456.789-00', '2020-01-31', 'rua teste', '(00) 0000-0000');
     
-        até aqui 
-        
+até aqui         
 Lá no lado direto click em executar ... 
 
 
